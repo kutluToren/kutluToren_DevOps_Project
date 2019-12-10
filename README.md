@@ -1,5 +1,5 @@
 # kutluToren_DevOps_CalculatorTest_HW
-DevOps Homework created in 17.11.2019 for Kutlu Toren
+DevOps Final Project created in 10.12.2019 for Kutlu Toren
 
 ## Test of a Calculator in Python using pytest.
 
